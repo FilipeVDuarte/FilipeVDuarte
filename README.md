@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe, but you can call me Pipo</h1>
-<h3 align="center">Adobe Photoshop Professional Certificate | Product Design Intern</h3>
+<h3 align="center">Adobe Photoshop Professional Certificate | Junior design assistant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipevduarte&label=Profile%20views&color=0e75b6&style=flat" alt="filipevduarte" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Project Cavaleiro de Latão**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/filipevelascoduarte](https://www.behance.net/filipevelascoduarte)
+- 👨‍💻 All of my design projects are available at [https://www.behance.net/filipevelascoduarte](https://www.behance.net/filipevelascoduarte)
 
 - 📝 I post regularly about my achievements [https://www.linkedin.com/in/filipe-velasco-duarte/](https://www.linkedin.com/in/filipe-velasco-duarte/)
 
