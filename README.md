@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filipe, but you can call me Pipo</h1>
-<h3 align="center">Adobe Photoshop Professional Certificate | Junior design assistant</h3>
+<h3 align="center">Adobe Photoshop Professional Certificate | Creative Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipevduarte&label=Profile%20views&color=0e75b6&style=flat" alt="filipevduarte" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipevduarte" alt="filipevduarte" /></a> </p>
 
-- 🔭 I’m currently working on **Project Cavaleiro de Latão**
+- 🔭 I’m currently working on **Mobifans ReBrand**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java Script**
 
 - 👨‍💻 All of my design projects are available at [https://www.behance.net/filipevelascoduarte](https://www.behance.net/filipevelascoduarte)
 
