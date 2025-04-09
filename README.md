@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipevduarte" alt="filipevduarte" /></a> </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b02a7f5-3dc8-404b-8edb-a8c6b3948440/deploy-status)](https://app.netlify.com/sites/mobifanspersonalizadas/deploys)
+
 - 🔭 I’m currently working on **Mobifans ReBrand**
 
 - 🌱 I’m currently learning **Java Script**
